@@ -1,5 +1,2 @@
-# HTML5 &amp; CSS3 독학백서 기초 무료 강의 🐥
-
-- [무료 강의](https://www.youtube.com/channel/UCRf6ut93gIImnmdebqdPI9A)
-- [HTML5 독학백서 교재](https://book.naver.com/bookdb/book_detail.nhn?bid=17892489)
-- [CSS3 독학백서 교재](https://book.naver.com/bookdb/book_detail.nhn?bid=18830214)
+해당 저장소는 더이상 업데이트 되지 않습니다.  
+업데이트 사항은 [이룸코딩](https://github.com/erumcoding/html-css-beginners)에서 확인 바랍니다.
